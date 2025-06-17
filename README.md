@@ -39,9 +39,8 @@ kyara-homepage/
     ├── almondmilk.jfif        # Almond Milk product image
     ├── black-coffee.jpg       # Black Coffee product image
     ├── herbal-infulsions.jpg  # Herbal Infusions product image
-    └── probiotics-juice.jpeg  # Probiotics Juice product image       
-    ...
-
+    └── probiotics-juice.jpeg  # Probiotics Juice product image 
+```
 ---
 
 ## 🚀 Usage Instructions
