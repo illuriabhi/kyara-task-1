@@ -1,6 +1,5 @@
 # 🏆 Kyara Beverages – Internship Project
-
-🔗 **Live Preview:** [https://ayan-ahmad-90.github.io/kyara-beverages/](https://ayan-ahmad-90.github.io/kyara-beverages/)
+A modern, clean, and responsive homepage for Kyara Beverages, developed as part of the Web Developer Internship. It embodies the brand’s core values: freshness, authenticity, and user experience. add readme
 
 ---
 
@@ -54,4 +53,4 @@ kyara-homepage/
 
 ## 📜 License
 
-🔒 This project is licensed under MIT, granting permission for modification
+🔒 This project is licensed under ABHI, granting permission for modification
