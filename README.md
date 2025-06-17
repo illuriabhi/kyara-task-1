@@ -33,8 +33,13 @@ kyara-homepage/
 │── styles.css        # Stylesheet for design
 │── README.md         # Project documentation
 └── src/
-    └── bg.jfif       # Background image for hero section
-```
+    ├── bg.jfif                # Hero section background image
+    ├── pg.png                 # Kyara logo
+    ├── favicon.jfif           # Favicon
+    ├── almondmilk.jfif        # Almond Milk product image
+    ├── black-coffee.jpg       # Black Coffee product image
+    ├── herbal-infulsions.jpg  # Herbal Infusions product image
+    └── probiotics-juice.jpeg  # Probiotics Juice product image       
 
 ---
 
