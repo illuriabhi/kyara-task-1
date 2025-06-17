@@ -1,34 +1,57 @@
-# Responsive Contact Form
+# 🏆 Kyara Beverages – Internship Project
 
-## Features
+🔗 **Live Preview:** [https://ayan-ahmad-90.github.io/kyara-beverages/](https://ayan-ahmad-90.github.io/kyara-beverages/)
 
-- **Clarity & Readability:** Clean, well-commented HTML and CSS.
-- **Responsiveness:** Smooth adaptation from mobile to desktop.
-- **Design Sense:** Simple, on-brand styling and layout.
-- **Documentation:** Clear structure and usage instructions.
+---
 
-## Folder Structure
+## 🎯 Project Overview
+
+This project is a static, mobile-friendly homepage designed to highlight Kyara Beverages' mission and products. Features include:
+
+- 🎨 **Hero banner** – Showcasing the brand logo, tagline, and background image.
+- ℹ️ **About section** – A brief introduction to Kyara Beverages’ mission.
+- 🥤 **Product teaser** – Displays three featured drinks with an image, name, and a short description.
+- 📬 **Contact form** – Includes fields for name, email, and message (non-functional).
+- 📱 **Responsive layout** – Optimized for both mobile (≤480px) and desktop (≥1024px).
+
+---
+
+## 🛠️ Tools & Technologies
+
+- 🏗️ **HTML5** – Structuring content for accessibility and clarity.
+- 🎨 **CSS3** – Styling with a clean and modern aesthetic.
+- 📏 **Media Queries** – Ensuring adaptability across different screen sizes.
+- 🚀 **No JavaScript or frameworks** – Keeping the project lightweight and simple.
+
+---
+
+## 📂 Folder Structure
 
 ```
-New folder/
-│
-├── index.html
-├── styles.css
-├── README.md
+kyara-homepage/
+│── index.html        # Main webpage
+│── styles.css        # Stylesheet for design
+│── README.md         # Project documentation
 └── src/
-    └── bg.jfif
+    └── bg.jfif       # Background image for hero section
 ```
 
-## Usage
+---
 
-1. Clone or download this repository.
-2. Open `index.html` in your browser to view the Kyara Beverages.
+## 🚀 Usage Instructions
 
-## Customization
+1. 🛠️ Clone or download the repository.
+2. 🌐 Open `index.html` in a browser to view the homepage.
 
-- Edit `styles.css` to change colors, fonts, or layout.
-- Replace or add images in the `src/` folder as needed.
+---
 
-## License
+## 🎨 Customization
 
-MIT
+- 🎨 Modify `styles.css` to change colors, fonts, or layout.
+- 🖼️ Replace or add images in the `src/` folder as needed.
+
+---
+
+## 📜 License
+
+🔒 This project is licensed under MIT, granting permission for modification
