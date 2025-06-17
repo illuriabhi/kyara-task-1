@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kyara Beverages</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/jfif" href="src/favicon.jfif">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#products">Products</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section class="hero">
+        <div class="hero-content">
+            <div class="hero-logo">
+                <img src="src/pg.png" alt="Kyara Logo" style="height:60px;">
+                <div style="font-size:1.1em; color:#232b32; margin-top:0.3em;">KYARA<br><span style="font-size:0.8em;">Well. Juicy</span></div>
+            </div>
+            <h1>Refreshment, Reimagined</h1>
+        </div>
+    </section>
+
+    <main>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>At Kyara Beverages, we craft refreshingly unique drinks that blend natural ingredients with innovative recipes. Our mission is to elevate everyday moments with vibrant flavors designed for health and enjoyment.</p>
+        </section>
+
+        <section id="products">
+            <h2>Our Drinks</h2>
+            <div class="product">
+                <img src="src/almondmilk.jfif" alt="Almond Milk" class="fit-screen">
+                <h3>Almond Milk</h3>
+                <p>Rich, creamy plant-based milk made from premium almonds.</p>
+            </div>
+            <div class="product">
+                <img src="src/black-coffee.jpg" alt="Black Coffee">
+                <h3>Black Coffee</h3>
+                <p>Bold and aromatic coffee brewed from the finest beans.</p>
+            </div>
+            <div class="product">
+                <img src="src/herbal-infulsions.jpg" alt="Herbal Infusions">
+                <h3>Herbal Infusions</h3>
+                <p>Refreshing blends of herbs for a natural wellness boost.</p>
+            </div>
+            <div class="product">
+                <img src="src/probiotics-juice.jpeg" alt="Probiotics Juice">
+                <h3>Probiotics Juice</h3>
+                <p>Juice packed with probiotics for a healthy gut and immunity.</p>
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <form>
+                <!-- Name Field -->
+                <label for="name">Name</label>
+                <input id="name" name="name" type="text" required />
+
+                <!-- Email Field -->
+                <label for="email">Email</label>
+                <input id="email" name="email" type="email" required />
+
+                <!-- Message Field -->
+                <label for="message">Message</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+
+                <!-- Submit Button -->
+                <button type="submit">Send Message</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        Contact: careers@kyarabeverages.in
+    </footer>
+</body>
+</html>
