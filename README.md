@@ -40,6 +40,7 @@ kyara-homepage/
     ├── black-coffee.jpg       # Black Coffee product image
     ├── herbal-infulsions.jpg  # Herbal Infusions product image
     └── probiotics-juice.jpeg  # Probiotics Juice product image       
+    ...
 
 ---
 
