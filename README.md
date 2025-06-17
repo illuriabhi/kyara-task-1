@@ -1,6 +1,7 @@
 # 🏆 Kyara Beverages – Internship Project
 A modern, clean, and responsive homepage for Kyara Beverages, developed as part of the Web Developer Internship. It embodies the brand’s core values: freshness, authenticity, and user experience. add readme
 
+**Live Preview:** [https://illuriabhi.github.io/kyara-task-1/](https://illuriabhi.github.io/kyara-task-1/)
 ---
 
 ## 🎯 Project Overview
